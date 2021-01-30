@@ -1,0 +1,25 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj-gonekar/firstApp.git"
+  },
+  "keywords": [
+    "myFirstApp"
+  ],
+  "author": "pankaj gonekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj-gonekar/firstApp/issues"
+  },
+  "homepage": "https://github.com/pankaj-gonekar/firstApp#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0"
+  }
+}
